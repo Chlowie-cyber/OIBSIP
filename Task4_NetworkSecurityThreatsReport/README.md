@@ -17,7 +17,7 @@ This repository houses all deliverables, code, scripts, and reports completed du
 
 ### Task 4 — Research Report: Common Network Security Threats
 * **Status:** Completed
-* **Deliverable File:** [`network_security_threats_report.pdf`](./network_security_threats_report.pdf)
+* **Deliverable File:** [`Network_Security_Threats_Report.pdf`](./network_security_threats_report.pdf)
 * **Description:** A comprehensive research report examining four critical network security threats:
   1. **Denial-of-Service (DoS / DDoS) Attacks**
   2. **Man-in-the-Middle (MITM) Attacks**
