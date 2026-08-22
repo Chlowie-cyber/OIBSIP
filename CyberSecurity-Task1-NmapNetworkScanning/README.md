@@ -132,7 +132,7 @@ This is actually a secure baseline: an idle system with zero exposed services ha
 | `/screenshots` | Terminal screenshots of each scan |
 | Demo video | Screen recording of all three scans being run live (linked below) |
  
-**Demo video:** *[add your video link here once uploaded]*
+**Demo video:**  [Task 1 - Nmap Scans.mp4](https://github.com/Chlowie-cyber/OIBSIP/blob/main/CyberSecurity-Task1-NmapNetworkScanning/screenshots/Task%201%20-%20Nmap%20Scans.mp4)
  
 ---
  
