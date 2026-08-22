@@ -27,7 +27,7 @@ Nmap · UFW · Nikto · Wireshark · Kali Linux (VirtualBox VM) · Markdown docu
 
 ## About Me
 
-Aspiring SOC Analyst based in Gauteng, South Africa, building hands-on security skills through TryHackMe, job simulations (Mastercard, AIG), and practical labs. Connect with me on [LinkedIn].
+Aspiring SOC Analyst based in Gauteng, South Africa, building hands-on security skills through TryHackMe, job simulations (Mastercard, AIG), and practical labs. Connect with me on [LinkedIn](www.linkedin.com/in/lehlogonolo-mpye).
 
 ## Ethics Statement
 
