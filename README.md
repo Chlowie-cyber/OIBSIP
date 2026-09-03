@@ -12,12 +12,12 @@ This repository contains my task submissions for the Oasis Infobyte Cyber Securi
 I selected 5 tasks aligned with SOC Analyst skills — asset discovery, traffic analysis, vulnerability triage, threat knowledge, and full assessment reporting:
 
 | # | Task | Type | Tier |
-|---|------|------|------|
-| 1 | [Nmap Network Scanning](./Task1_NmapNetworkScanning) | Practical | Beginner |
-| 4 | [Network Security Threats Report](./Task4_NetworkSecurityThreatsReport) | Research | Beginner |
-| 7 | [Nikto Vulnerability Scanning](./Task7_NiktoVulnerabilityScanning) | Practical | Intermediate |
-| 8 | [Wireshark Traffic Capture](./Task8_WiresharkTrafficCapture) | Practical | Intermediate |
-| 10 | [Full Network Security Assessment](./Task10_FullNetworkSecurityAssessment) | Practical | Advanced |
+| :-: | :--- | :--- | :--- |
+| 1 | [Nmap Network Scanning](./CyberSecurity-Task1-NmapNetworkScanning/) | Practical | Beginner |
+| 4 | [Network Security Threats Report](./CyberSecurity-Task4-NetworkSecurityThreatsReport/) | Research | Beginner |
+| 7 | [Nikto Vulnerability Scanning](./CyberSecurity-Task7-NiktoVulnerabilityScanning/) | Practical | Intermediate |
+| 8 | [Wireshark Traffic Capture](./CyberSecurity-Task8-WiresharkTrafficCapture/) | Practical | Intermediate |
+| 10 | [Full Network Security Assessment](./CyberSecurity-Task10-FullNetworkSecurityAssessment/) | Practical | Advanced |
 
 Task 10 consolidates the Nmap, Wireshark, and Nikto work from Tasks 1, 7, and 8 into one end-to-end assessment report with a findings register, executive summary, and remediation roadmap.
 
