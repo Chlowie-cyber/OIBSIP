@@ -98,7 +98,7 @@ HTTPS wraps the same HTTP request inside a TLS-encrypted tunnel. An observer can
 | `/screenshots` | HTTP, DNS, and TCP filtered views; handshake annotation; unencrypted packet detail |
 | Demo video | Screen recording of the full capture, filtering, and export process |
 
-**Demo video:** *[add your video link here once uploaded]*
+**Demo Video:** [Watch Wireshark Traffic Capture Walkthrough](./screenshots/Wireshark_Traffic_Capture.mp4)
 
 ---
 
